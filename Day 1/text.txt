@@ -1,0 +1,8 @@
+a=9 it mean 9 is store in veriable a.
+0b111000
+0x38
+0o70
+#rev-->
+binary->decimal int(,2)
+octal-->decimal int(,8)
+hexadecimal->decimal int(,16)
