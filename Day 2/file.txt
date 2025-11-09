@@ -1,0 +1,17 @@
+input-->"Hye "sourin" , you are a bad teacher."
+
+in C -->printf("\n");
+
+atr[start:end]
+
+H  e  l  l  o  P  y  t  h  o  n
+-11 -10 -9 -8 -7 -6 -5 -4 -3 -2 -1
+
+str[-11:-10]
+
+
+w3school,gfg
+
+[57,58,69,49]
+variable--?
+integer
