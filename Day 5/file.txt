@@ -1,0 +1,8 @@
+| Operator | Meaning                  | Example  | Result |
+| -------- | ------------------------ | -------- | ------ |
+| `==`     | Equal to                 | `5 == 5` | ✅ True |
+| `!=`     | Not equal to             | `5 != 3` | ✅ True |
+| `>`      | Greater than             | `8 > 6`  | ✅ True |
+| `<`      | Less than                | `4 < 9`  | ✅ True |
+| `>=`     | Greater than or equal to | `5 >= 5` | ✅ True |
+| `<=`     | Less than or equal to    | `3 <= 7` | ✅ True |
