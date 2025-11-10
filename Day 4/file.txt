@@ -1,0 +1,13 @@
+Assignment Operator.
+
+These combine an operation and assignment in one step:
+
+Operator	Example	Meaning	Equivalent To
+=	x = 5	Assigns value	—
++=	x += 3	Add and assign	x = x + 3
+-=	x -= 2	Subtract and assign	x = x - 2
+*=	x *= 4	Multiply and assign	x = x * 4
+/=	x /= 2	Divide and assign	x = x / 2
+//=	x //= 3	Floor divide and assign	x = x // 3
+%=	x %= 5	Modulus and assign	x = x % 5
+**=	x **= 2	Exponentiate and assign	x = x ** 2
