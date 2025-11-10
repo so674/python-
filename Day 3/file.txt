@@ -1,0 +1,8 @@
+1.Arithmatic Operation
+example1-(a+b) the "+" operator should add the value of a and b
+example2-(a-b) the "-" operator should substract the value of a and b
+eaxample3-(a*b) the "*"operator should multiply the value of a and b
+example4-(a/b) the "/" operator should devide the value of a and b
+example5-(a%b) the "%" operator should give  remainder the value of a and b
+example6-(a//b) the "//" operator should () the value of a and b
+example7-(a**b) the "**" operator should () the value of a and b
