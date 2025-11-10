@@ -1,0 +1,10 @@
+In Python, the and operator doesn’t always return just True or False.
+Instead, it returns the last evaluated value.
+
+Let’s see how it works 
+
+and checks both sides:
+
+If both values are truthy, it returns the second value.
+
+If the first value is falsy (like 0, False, None, ""), it returns the first value immediately.
