@@ -1,0 +1,9 @@
+Bitwise complement operaor(~)
+NOT Gate.
+
+
+~n = - (n + 1)
+def not(a):
+    print(~a)
+not(5)
+(-(5+1))    
